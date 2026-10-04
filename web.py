@@ -23,7 +23,7 @@ from datetime import datetime
 import telebot
 
 # Telegram Bot Setup
-TOKEN = "8699962447:AAFKD2vEqE4M8I4-EiXMEYu8boGg9-8x6PU"
+TOKEN = ""
 CHAT_ID = 8599447519
 bot = telebot.TeleBot(TOKEN)
 
